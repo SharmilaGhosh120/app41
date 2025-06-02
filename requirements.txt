@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlite3
+requests
+python-dotenv
+reportlab
+ratelimit
+passlib
